@@ -1,14 +1,14 @@
-% % % % % % % % % % % % % % % % % % % % % % % % CodeBook % % % % % % % % % % % % % % % % % % % % % % % %
+% % % % % % CODEBOOK % % % % % %
 
 Within this file there are described the variables, the data, and any transformations or work that was performed in order to provide goal of the Course Project.
 
 
-Variables (experiment)
+% % % % % % VARIABLES % % % % % % 
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
 
 
-Data
+% % % % % % DATA % % % % % % 
 
 The data was gathered by the team:
 
@@ -24,7 +24,7 @@ and it is available online via the following webside:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Transformations
+% % % % % % TRANSFORMATIONS % % % % % % 
 
 The data was transformed according to the guideline provided by the Teacher of the Course and as follows:
 
