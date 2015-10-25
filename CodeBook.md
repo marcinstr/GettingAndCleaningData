@@ -1,4 +1,4 @@
-CodeBook
+% % % % % % % % % % % % % % % % % % % % % % % % CodeBook % % % % % % % % % % % % % % % % % % % % % % % %
 
 Within this file there are described the variables, the data, and any transformations or work that was performed in order to provide goal of the Course Project.
 
